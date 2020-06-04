@@ -43,56 +43,56 @@
 					<key>PRT1</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>port</key>
 						<data>AQAAAA==</data>
 					</dict>
 					<key>PRT2</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>port</key>
 						<data>AgAAAA==</data>
 					</dict>
 					<key>PRT3</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>port</key>
 						<data>AwAAAA==</data>
 					</dict>
 					<key>PRT4</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>port</key>
 						<data>BAAAAA==</data>
 					</dict>
 					<key>PRT5</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>9</integer>
 						<key>port</key>
 						<data>BQAAAA==</data>
 					</dict>
 					<key>PRT6</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>255</integer>
 						<key>port</key>
 						<data>BgAAAA==</data>
 					</dict>
 					<key>PRT7</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>255</integer>
 						<key>port</key>
 						<data>BwAAAA==</data>
 					</dict>
 					<key>PRT8</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>255</integer>
 						<key>port</key>
 						<data>CAAAAA==</data>
 					</dict>
@@ -123,11 +123,13 @@
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
+						<key>port</key>
+						<data>AwAAAA==</data>
 					</dict>
 					<key>PO11</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>3</integer>
 						<key>port</key>
 						<data>CwAAAA==</data>
 					</dict>
@@ -176,7 +178,7 @@
 					<key>POT1</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>9</integer>
+						<integer>3</integer>
 						<key>port</key>
 						<data>AQAAAA==</data>
 					</dict>
