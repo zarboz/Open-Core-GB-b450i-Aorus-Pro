@@ -5,13 +5,13 @@ This is what I am using with AMD power control working ethernet
 
 
 
-WORKING:
-Ethernet
-GPU
-CPU Powermanagement (with AMDPowermanagement.kext)
-Sleep/wake
-CPU PM
+## WORKING:
+Ethernet<br>
+GPU<br>
+CPU Powermanagement (with AMDPowermanagement.kext)<br>
+Sleep/wake<br>
+CPU PM<br>
 
-Not working:
-Wifi
-USB3.0 ports
+## Not working:<br>
+Wifi<br>
+USB3.0 ports<br>
